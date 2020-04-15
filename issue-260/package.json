@@ -1,0 +1,11 @@
+{
+  "name": "@rollup-plugin-postcss/issue-260",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "devDependencies": {
+    "postcss-url": "^8.0.0",
+    "rollup": "^1.32.1",
+    "rollup-plugin-postcss": "^2.1.1"
+  }
+}
